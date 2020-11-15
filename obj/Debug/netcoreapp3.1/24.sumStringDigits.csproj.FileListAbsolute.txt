@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\bin\Debug\netcoreapp3.1\24.sumStringDigits.exe
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\bin\Debug\netcoreapp3.1\24.sumStringDigits.deps.json
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\bin\Debug\netcoreapp3.1\24.sumStringDigits.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\bin\Debug\netcoreapp3.1\24.sumStringDigits.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\bin\Debug\netcoreapp3.1\24.sumStringDigits.dll
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\bin\Debug\netcoreapp3.1\24.sumStringDigits.pdb
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\obj\Debug\netcoreapp3.1\24.sumStringDigits.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\obj\Debug\netcoreapp3.1\24.sumStringDigits.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\obj\Debug\netcoreapp3.1\24.sumStringDigits.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\obj\Debug\netcoreapp3.1\24.sumStringDigits.dll
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\obj\Debug\netcoreapp3.1\24.sumStringDigits.pdb
+C:\Users\Bla\source\repos\DataTypes\24.sumStringDigits\obj\Debug\netcoreapp3.1\24.sumStringDigits.genruntimeconfig.cache
