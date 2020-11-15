@@ -16,6 +16,7 @@ namespace _24.sumStringDigits
                 sum += symbolWord[i];
             }
             Console.WriteLine($"{sum}");
+            Console.WriteLine("this is how we summ the Ascii code numbers of given strig  characters");
         }
     }
 }
